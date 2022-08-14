@@ -2,7 +2,7 @@
 title: "レイトレ(0): 目次"
 emoji: "💡"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Haskell", "Ray Tracing", "Photon Mapping"]
+topics: ["Haskell", "RayTracing", "PhotonMapping"]
 published: true
 ---
 
@@ -10,7 +10,7 @@ published: true
 
 ※ Qiitaに投稿していたものをZennにも転載する。
 
-* レイトレーシング(1): バージョン1の定義、ベクトル演算
+* [レイトレーシング(1): バージョン1の定義、ベクトル演算](https://zenn.dev/eijian/articles/raytracing-1-20220814)
 * レイトレーシング(2): `Algebra`モジュールをいじる
 * レイトレーシング(3): フォトンマップ生成の大枠を考える（ついでに光源も）
 * レイトレーシング(4): フォトンの生成
