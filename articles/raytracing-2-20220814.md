@@ -3,7 +3,7 @@ title: "レイトレーシング(2): ユニットテストなど"
 emoji: "💡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Haskell", "RayTracing", "PhotonMapping"]
-published: true
+published: false
 ---
 (この記事はQiitaからの転載です)
 

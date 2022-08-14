@@ -11,7 +11,7 @@ published: true
 ※ Qiitaに投稿していたものをZennにも転載する。
 
 * [レイトレーシング(1): バージョン1の定義、ベクトル演算](https://zenn.dev/eijian/articles/raytracing-1-20220814)
-* レイトレーシング(2): `Algebra`モジュールをいじる
+* [レイトレーシング(2): `Algebra`モジュールをいじる](https://zenn.dev/eijian/articles/raytracing-2d-20220814)
 * レイトレーシング(3): フォトンマップ生成の大枠を考える（ついでに光源も）
 * レイトレーシング(4): フォトンの生成
 * レイトレーシング(5): 物体の定義
