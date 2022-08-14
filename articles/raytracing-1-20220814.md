@@ -7,7 +7,7 @@ published: true
 ---
 (この記事はQiitaからの転載です)
 
-レイトレーシング：[目次](https://zenn.dev/eijian/articles/raytraicing-index-20220814)
+レイトレーシング：[目次](https://zenn.dev/eijian/articles/raytracing-index-20220814)
 
 Haskellは数学と関連があるというような話をちょくちょく見ることがある。圏論がどうとか数学的な概念が…といったところは筆者にはわからないが、ソース（見た目）はかなり数学っぽいと思う。実際これが一番Haskellにはまっている理由かもしれない。この簡潔さは素晴らしい。数学とくればレイトレーシング？ということで作ってみる。
 

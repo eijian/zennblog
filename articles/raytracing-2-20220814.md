@@ -5,6 +5,11 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Haskell", "RayTracing", "PhotonMapping"]
 published: true
 ---
+(この記事はQiitaからの転載です)
+
+レイトレーシング：[目次](https://zenn.dev/eijian/articles/raytracing-index-20220814)
+
+
 #### ユニットテスト
 
 
