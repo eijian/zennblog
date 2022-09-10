@@ -12,7 +12,8 @@
 
 * 記事の新規作成
 
-> $ npx 
+> $ cd <top>
+> $ npx zenn new:article --slug <SLUG>
 
 
 * 記事のプレビュー
