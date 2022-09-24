@@ -22,5 +22,5 @@ published: true
 * [レイトレーシング(12): 集光模様！](https://zenn.dev/eijian/articles/raytracing-12-20220910)
 * [レイトレーシング(13): Progressive Photon Mapping (ただし本家ではない)](https://zenn.dev/eijian/articles/raytracing-13-20220910)
 * [レイトレーシング(14): 光沢面にトライ](https://zenn.dev/eijian/articles/raytracing-14-20220910)
-* レイトレーシング(15): 光源あれこれ
+* [レイトレーシング(15): 物理ベースレンダリング（もどき）](https://zenn.dev/eijian/articles/raytracing-15-20220911)
 
